@@ -1,1 +1,3 @@
-I am an evil clone.
+<<<<<<< HEAD
+I am a nice clone.
+>>>>>>> 39327a02c4ca6f6c740389ed1abeda17ef01988f
